@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./icon.png">
+<img src="./favicon.png">
 
 **Protect yourself online with real-time URL security analysis**
 
