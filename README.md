@@ -28,7 +28,7 @@
 
 ## Demo
 
-Check out the live demo: **[https://websafe-6qzg.onrender.com](https://websafe-6qzg.onrender.com)**
+Check out the live demo: **[https://websafe-6qzg.onrender.com](https://prateek.is-a.dev/SaferWeb/)**
 
 ### Screenshots
 
